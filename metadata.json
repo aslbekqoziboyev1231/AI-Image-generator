@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Lumina AI Image Studio",
+  "description": "A high-performance AI image generation tool powered by Gemini, featuring instant creation, aspect ratio controls, and a sleek, modern interface.",
+  "requestFramePermissions": []
+}
